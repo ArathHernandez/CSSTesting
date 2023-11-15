@@ -1,7 +1,3 @@
-#element-with-id {
-    color:red;
-}
-
-[rancio="sii"] {
+.contact-form__input--active{
     color:green;
 }
